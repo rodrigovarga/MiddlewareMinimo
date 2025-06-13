@@ -1,0 +1,52 @@
+### GET /
+GET http://localhost:5132/
+Accept: application/json
+
+### GET /map1
+GET http://localhost:5132/map1
+Accept: application/json
+
+### GET /map2
+GET http://localhost:5132/map2
+Accept: application/json
+
+### GET /map3
+GET http://localhost:5132/map3
+Accept: application/json
+
+### GET /map1/seg1
+GET http://localhost:5132/map1/seg1
+Accept: application/json
+
+### GET /level1/level2a
+GET http://localhost:5132/level1/level2a
+Accept: application/json
+
+### GET /level1/level2b
+GET http://localhost:5132/level1/level2b
+Accept: application/json
+
+### GET /level1/level2c
+GET http://localhost:5132/level1/level2c
+Accept: application/json
+
+### GET /level1/level2b/teste
+GET http://localhost:5132/level1/level2b/teste
+Accept: application/json
+
+### GET /map1?branch=teste
+GET http://localhost:5132/map1?branch=teste
+Accept: application/json
+
+### GET /?branch=teste
+GET http://localhost:5132/?branch=teste
+Accept: application/json
+
+### GET /map1?tag=teste
+GET http://localhost:5132/map1?tag=teste
+Accept: application/json
+
+### GET /?tag=teste
+GET http://localhost:5132/?tag=teste
+Accept: application/json
+
